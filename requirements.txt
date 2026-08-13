@@ -1,0 +1,4 @@
+Telethon==1.43.1
+apscheduler==3.6.3
+pytz==2026.1.post1
+requests==2.33.1
